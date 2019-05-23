@@ -1,0 +1,1 @@
+Simply go into the Cube-Op_Data and unzip sharedassets1.assets.resS to the same folder (Make sure the contents are in Cube-Op_Data).
