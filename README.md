@@ -5,6 +5,7 @@ first person shooter controls has on player experience. Originally this game was
 has now been updated with numerous new features.
 
 A video on how to play the game can be seen below:
+
 [![Cube-Op](https://img.youtube.com/vi/qW_H8M6gY4s/0.jpg)](https://youtu.be/qW_H8M6gY4s)
 
 Installation:
