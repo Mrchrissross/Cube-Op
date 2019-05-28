@@ -2,7 +2,11 @@
 
 Cube-Op was developed along side my BSc (Hons) dissertation to find out what the effects of simplifying 
 first person shooter controls has on player experience. Originally this game was a first-person shooter, however it 
-has now been updated with numerous new features.
+has now been updated with numerous new features. 
+
+The visual appearance of both the player and menu scene have been improved in the latest update and the player also has a much lower poly count: 
+
+[![Imgur](https://i.imgur.com/1hkXUQi.jpg)](https://i.imgur.com/1hkXUQi.jpg)
 
 A video on how to play the game can be seen below:
 
