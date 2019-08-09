@@ -1,5 +1,7 @@
 # Cube-Op
 
+Game can be played here: https://simmer.io/@mrchrissross/cube-op
+
 Cube-Op was developed along side my BSc (Hons) dissertation to find out what the effects of simplifying 
 first person shooter controls has on player experience. Originally this game was a first-person shooter, however it 
 has now been updated with numerous new features. 
